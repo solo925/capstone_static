@@ -1,0 +1,16 @@
+body {
+    padding-top: 56px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.container h1 {
+    margin-bottom: 30px;
+}
+
+.container img {
+    max-width: 200px;
+    margin: 20px 0;
+}
